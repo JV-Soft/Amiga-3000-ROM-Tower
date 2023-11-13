@@ -1,0 +1,2 @@
+ROM Tower is intended for installation in early revisions of the Amiga 3000, in which there was an error in the PCB layout, and standard kickstart microcircuits cannot work there.
+
