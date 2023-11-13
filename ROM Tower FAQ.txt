@@ -6,5 +6,10 @@ then you can get two kickstarts that will switch, to do this, you need to sequen
 which have a size of 256kb, into the HI and LO chips. Example 3.1 HI (256kb) 3.9 HI (256kb) and also 3.1 LO (256kb) 3.9 LO (256kb),
 then connect a switch or jumper to the connector on the board and switch between these two versions.
 
+You can use a patched kickstart of 1 megabyte in size, it must be divided into HI and LO files of 512 kb in size .
+Next, connect address (A17) from the ROM Tower board to the Amiga board, for example this signal is on pin 40 of the CPU 68030
+
+You can always contact me for consultation at - amigaforyou@gmail.com
+
 
 
